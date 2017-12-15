@@ -1,0 +1,494 @@
+0*@*Add trailing zeroes for decimal point
+1*@*Add trailing zeroes for quotient
+2*@*Add variable expressions
+3*@*Approximate product -- order of magnitude
+4*@*Approximate product -- percentage
+5*@*Approximate quotient -- order of magnitude
+6*@*Approximate quotient -- percentage
+7*@*Bring down dividend digit
+8*@*Calculate Part
+9*@*Calculate Total
+10*@*Calculate area of overlap
+11*@*Calculate decimal from given decimal percent
+12*@*Calculate decimal from given fraction
+13*@*Calculate decimal from given fractional percent
+14*@*Calculate decimal from given improper fraction
+15*@*Calculate decimal from given mixed number
+16*@*Calculate decimal from given percent
+17*@*Calculate decimal percent from given decimal
+18*@*Calculate decimal percent from given fraction
+19*@*Calculate decimal percent from given fractional percent
+20*@*Calculate difference -- contextual
+21*@*Calculate difference -- non contextual
+22*@*Calculate difference with negative integer
+23*@*Calculate difference with positive integer
+24*@*Calculate final amount in context
+25*@*Calculate fraction from given decimal
+26*@*Calculate fraction from given decimal percent
+27*@*Calculate fraction from given fractional percent
+28*@*Calculate fraction from given percent
+29*@*Calculate fractional percent from given decimal
+30*@*Calculate fractional percent from given decimal percent
+31*@*Calculate fractional percent from given fraction
+32*@*Calculate improper fraction from given decimal
+33*@*Calculate improper fraction from given mixed number
+34*@*Calculate improper fraction from given percent
+35*@*Calculate internal difference
+36*@*Calculate internal product
+37*@*Calculate least common denominator
+38*@*Calculate numerator of mixed number from given decimal
+39*@*Calculate numerator of mixed number from given improper fraction
+40*@*Calculate numerator of mixed number from given model
+41*@*Calculate numerator of mixed number from given percent
+42*@*Calculate part in context
+43*@*Calculate part in proportion with fractions
+44*@*Calculate part out of context
+45*@*Calculate partial product -- carry in
+46*@*Calculate partial product -- carry in and out
+47*@*Calculate partial product -- carry out
+48*@*Calculate partial product -- no carry
+49*@*Calculate percent change in context
+50*@*Calculate percent from given decimal
+51*@*Calculate percent from given fraction
+52*@*Calculate percent from given improper fraction
+53*@*Calculate percent from given mixed number
+54*@*Calculate percent in context
+55*@*Calculate percent out of context
+56*@*Calculate product -- contextual
+57*@*Calculate product -- multiply statement
+58*@*Calculate product -- of statement
+59*@*Calculate product of means or extremes
+60*@*Calculate product of two numbers
+61*@*Calculate quotient -- contextual
+62*@*Calculate quotient digit -- non zero
+63*@*Calculate quotient digit -- zero
+64*@*Calculate ratio denominator from given
+65*@*Calculate ratio numerator from given
+66*@*Calculate solution with means and extremes
+67*@*Calculate sum -- contextual
+68*@*Calculate sum -- non contextual
+69*@*Calculate sum of fractional parts
+70*@*Calculate sum of whole number parts
+71*@*Calculate sum with negative integer
+72*@*Calculate sum with positive integer
+73*@*Calculate total in context
+74*@*Calculate total in proportion with fractions
+75*@*Calculate total out of context
+76*@*Calculate unit rate
+77*@*Calculate whole number part of mixed number from given decimal
+78*@*Calculate whole number part of mixed number from given improper fraction
+79*@*Calculate whole number part of mixed number from given model
+80*@*Calculate whole number part of mixed number from given percent
+81*@*Changing axis bounds
+82*@*Changing axis intervals
+83*@*Choose mean
+84*@*Choose median
+85*@*Choose mode
+86*@*Choose operator in fractional identity
+87*@*Compare Options - operation
+88*@*Compare Options - simplified
+89*@*Compare differences - added internal
+90*@*Compare differences - added outlier
+91*@*Compare differences - removed outlier
+92*@*Compare fractions from contextual problem
+93*@*Compare fractions with like denominators
+94*@*Compare fractions with unlike denominators
+95*@*Compare means - added internal
+96*@*Compare means - added outlier
+97*@*Compare means - removed outlier
+98*@*Compare medians - added internal
+99*@*Compare medians - added outlier
+100*@*Compare medians - removed outlier
+101*@*Compare point and original mean - added internal
+102*@*Compare point and original mean - added outlier
+103*@*Compare point and original mean - removed outlier
+104*@*Compare probabilities -- different trials
+105*@*Compare probabilities -- same trials
+106*@*Compare unit rates
+107*@*Convert fraction to decimal with division
+108*@*Convert improper fraction to whole number
+109*@*Convert mixed number to decimal with zero (denom a factor of 10^N)
+110*@*Convert mixed number to decimal with zero (denom already 10^N)
+111*@*Convert mixed number to decimal without zero (denom a factor of 10^N)
+112*@*Convert mixed number to decimal without zero (denom already 10^N)
+113*@*Convert proper fraction to decimal with zero (denom a factor of 10^N)
+114*@*Convert proper fraction to decimal with zero (denom already 10^N)
+115*@*Convert proper fraction to decimal without zero (denom a factor of 10^N)
+116*@*Convert proper fraction to decimal without zero (denom already 10^N)
+117*@*Convert whole number to improper fraction
+118*@*Copy initial in diagram
+119*@*Correctly placing points
+120*@*Count number of shaded parts in circle (contiguous)
+121*@*Count number of shaded parts in circle (discontiguous)
+122*@*Count number of shaded parts in horizontal bar (contiguous)
+123*@*Count number of shaded parts in horizontal bar (discontiguous)
+124*@*Count number of shaded parts in square (contiguous)
+125*@*Count number of shaded parts in square (discontiguous)
+126*@*Count number of shaded parts in vertical bar (contiguous)
+127*@*Count number of shaded parts in vertical bar (discontiguous)
+128*@*Define variable
+129*@*Define variable expression
+130*@*Draw larger bar -- addition/subtraction
+131*@*Draw larger bar -- multiplication
+132*@*Draw smaller bar -- addition/subtraction
+133*@*Draw smaller bar -- multiplication
+134*@*Enter Calculated value of rate
+135*@*Enter Calculated value of ratio
+136*@*Enter added quantity in diagram
+137*@*Enter amount of change with variable
+138*@*Enter answer digit -- DON'T TRACK ME
+139*@*Enter calculated amount of change in proportion
+140*@*Enter calculated original amount in proportion
+141*@*Enter decimal equivalent of word form
+142*@*Enter decimal from given model
+143*@*Enter decimal probability of event
+144*@*Enter denominator of form of 1
+145*@*Enter denominator of given fraction in proportion
+146*@*Enter denominator of given rate in proportion
+147*@*Enter denominator of given unit rate in proportion
+148*@*Enter digit (general money) -- DO NOT TRACK ME
+149*@*Enter digit (general) -- DO NOT TRACK ME
+150*@*Enter experimental probability for large number
+151*@*Enter experimental probability for medium number
+152*@*Enter experimental probability for small number
+153*@*Enter first extreme in equation
+154*@*Enter first mean in equation
+155*@*Enter fraction from given model
+156*@*Enter fractional probability of event
+157*@*Enter given amount of change in proportion
+158*@*Enter given decimal
+159*@*Enter given decimal percent
+160*@*Enter given fraction
+161*@*Enter given fractional percent
+162*@*Enter given improper fraction
+163*@*Enter given original amount in proportion
+164*@*Enter given part in proportion
+165*@*Enter given percent
+166*@*Enter given percent change in proportion
+167*@*Enter given rate denominator
+168*@*Enter given rate numerator
+169*@*Enter given ratio denominator
+170*@*Enter given ratio numerator
+171*@*Enter given total in proportion
+172*@*Enter group denominator
+173*@*Enter group numerator
+174*@*Enter hundredths multiplier as decimal
+175*@*Enter hundredths multiplier as fraction
+176*@*Enter improper fraction from given model
+177*@*Enter initial in diagram -- calculated
+178*@*Enter initial in diagram -- given
+179*@*Enter items denominator
+180*@*Enter items numerator
+181*@*Enter label (general) -- DO NOT TRACK ME
+182*@*Enter label of final answer
+183*@*Enter label of final answer.
+184*@*Enter larger inital in diagram -- calculated
+185*@*Enter larger initial in diagram -- calculated
+186*@*Enter larger initial in diagram -- given
+187*@*Enter mean
+188*@*Enter median - even entries
+189*@*Enter median - odd entries
+190*@*Enter money label (general) -- DO NOT TRACK ME
+191*@*Enter new mean
+192*@*Enter new median
+193*@*Enter number of desired outcomes from picture
+194*@*Enter number of desired outcomes from verbal description
+195*@*Enter number of entries
+196*@*Enter number of outcomes for event 1 in table
+197*@*Enter number of outcomes for event 1 in tool
+198*@*Enter number of outcomes for event 2 in table
+199*@*Enter number of outcomes for event 2 in tool
+200*@*Enter number of total outcomes from picture
+201*@*Enter number of total outcomes from verbal description
+202*@*Enter number of total outcomes in table
+203*@*Enter numerator of form of 1
+204*@*Enter numerator of given fraction in proportion
+205*@*Enter numerator of given mixed number
+206*@*Enter numerator of given percent in proportion
+207*@*Enter numerator of given rate in proportion
+208*@*Enter numerator of given unit rate in proportion
+209*@*Enter numerator of percent change with variable
+210*@*Enter numerator of percent with variable
+211*@*Enter ones multiplier
+212*@*Enter original mean
+213*@*Enter original median
+214*@*Enter part in proportion with variable
+215*@*Enter percent from given model
+216*@*Enter percent probability of event
+217*@*Enter proportion label in denominator
+218*@*Enter proportion label in numerator
+219*@*Enter quantity from diagram by calculating
+220*@*Enter quantity from diagram by reading
+221*@*Enter range
+222*@*Enter rate label in denominator
+223*@*Enter rate label in numerator
+224*@*Enter rate label to left of "per"
+225*@*Enter rate label to right of "per"
+226*@*Enter ratio label in denominator
+227*@*Enter ratio label in numerator
+228*@*Enter ratio label to left of "to"
+229*@*Enter ratio label to left of colon
+230*@*Enter ratio label to right of "to"
+231*@*Enter ratio label to right of colon
+232*@*Enter ratio quantity to left of "to"
+233*@*Enter ratio quantity to left of colon
+234*@*Enter ratio quantity to right of "to"
+235*@*Enter ratio quantity to right of colon
+236*@*Enter ratio using a colon
+237*@*Enter second extreme in equation
+238*@*Enter second mean in equation
+239*@*Enter single mode
+240*@*Enter smaller inital in diagram -- calculated
+241*@*Enter smaller initial in diagram -- calculated
+242*@*Enter smaller initial in diagram -- given
+243*@*Enter subtracted quantity in diagram
+244*@*Enter sum of entries
+245*@*Enter tens multiplier
+246*@*Enter tenths multiplier as decimal
+247*@*Enter tenths multiplier as fraction
+248*@*Enter theoretical probability
+249*@*Enter thousandths multiplier as decimal
+250*@*Enter thousandths multiplier as fraction
+251*@*Enter total in diagram - calculated - addition
+252*@*Enter total in diagram - calculated - multiplication
+253*@*Enter total in diagram - calculated - subtraction
+254*@*Enter total in diagram - given
+255*@*Enter total in proportion with variable
+256*@*Enter variable expression in diagram -- multiplication
+257*@*Enter variable expression in diagram -- subtraction
+258*@*Enter variable in diagram
+259*@*Enter whole number part of given mixed number
+260*@*Entering a given
+261*@*Entering the slope
+262*@*Entering the y-intercept
+263*@*Find X, any form
+264*@*Find Y, any form
+265*@*Find alternate exterior angle
+266*@*Find alternate interior angle
+267*@*Find corresponding angle
+268*@*Find supplementary angle
+269*@*Find third angle of triangle
+270*@*Find vertical angle
+271*@*Identify Fraction using fraction shape
+272*@*Identify GCF
+273*@*Identify GCF - one number multiple of other
+274*@*Identify GCF in equivalence statement
+275*@*Identify GCF in written question
+276*@*Identify LCM
+277*@*Identify LCM - is product
+278*@*Identify LCM - one number multiple of other
+279*@*Identify acute angle
+280*@*Identify angles as alternate exterior
+281*@*Identify angles as alternate interior
+282*@*Identify angles as corresponding
+283*@*Identify angles as supplementary
+284*@*Identify angles as vertical
+285*@*Identify common denominator
+286*@*Identify equal parts for multiplicand
+287*@*Identify equal parts for multiplier
+288*@*Identify fraction associated with each piece of a circle
+289*@*Identify fraction associated with each piece of a horizontal bar
+290*@*Identify fraction associated with each piece of a square
+291*@*Identify fraction associated with each piece of a vertical bar
+292*@*Identify fraction associated with each segment of a number line
+293*@*Identify fraction of desired items
+294*@*Identify fraction using number line
+295*@*Identify fractional part of improper fraction symbolically
+296*@*Identify fractional part of mixed number symbolically
+297*@*Identify hundreds digit from place value
+298*@*Identify hundreds place value from digit
+299*@*Identify hundredths digit from place value
+300*@*Identify hundredths place value from digit
+301*@*Identify improper fraction from option 1
+302*@*Identify improper fraction from option 2
+303*@*Identify larger quantity -- addition
+304*@*Identify larger quantity -- multiplication
+305*@*Identify larger quantity -- subtraction
+306*@*Identify length of overlap
+307*@*Identify multiplier in equivalence statement
+308*@*Identify multiplier in written question -- number line
+309*@*Identify multiplier in written question -- rectangle
+310*@*Identify negative integer from number line
+311*@*Identify no more factors
+312*@*Identify number as common factor
+313*@*Identify number as common multiple
+314*@*Identify number of desired groups
+315*@*Identify number of desired groups--construct
+316*@*Identify number of desired items
+317*@*Identify number of equal divisions (circle)
+318*@*Identify number of equal divisions (horizontal bar)
+319*@*Identify number of equal divisions (number line)
+320*@*Identify number of equal divisions (square)
+321*@*Identify number of equal divisions (vertical bar)
+322*@*Identify number of equal divisions in visual from fraction
+323*@*Identify number of equal divisions on number line from desired denominator
+324*@*Identify number of equal groups from fraction
+325*@*Identify number of items
+326*@*Identify number of items in each group
+327*@*Identify number of items in each group from GCF
+328*@*Identify number of recipients
+329*@*Identify number of total items
+330*@*Identify obtuse angle
+331*@*Identify ones place value from digit
+332*@*Identify operator
+333*@*Identify percent change as increase or decrease
+334*@*Identify positive integer from number line
+335*@*Identify proper fraction from option 1
+336*@*Identify proper fraction from option 2
+337*@*Identify right angle
+338*@*Identify straight angle
+339*@*Identify tens digit from place value
+340*@*Identify tens place value from digit
+341*@*Identify tenths digit from place value
+342*@*Identify tenths place value from digit
+343*@*Identify that a fraction can be simplified
+344*@*Identify that a fraction can/cannot be simplified
+345*@*Identify that a fraction cannot be simplified
+346*@*Identify that a mixed number can/cannot be simplified
+347*@*Identify that an improper fraction can/cannot be simplified
+348*@*Identify thousands digit from place value
+349*@*Identify thousands place value from digit
+350*@*Identify thousandths digit from place value
+351*@*Identify thousandths place value from digit
+352*@*Identify whole number lower bound
+353*@*Identify whole number of improper fraction symbolically
+354*@*Identify whole number of mixed number symbolically
+355*@*Identify whole number upper bound
+356*@*Identify width of overlap
+357*@*Identifying units
+358*@*Isolate numerator of fractional part of mixed number symbolically
+359*@*Label equivalent fraction in equivalence statement
+360*@*Label equivalent fraction in visual
+361*@*Label equivalent fraction on number line
+362*@*Labelling the axes
+363*@*List consecutive multiples of a number
+364*@*List factor of large number
+365*@*Measure acute angle
+366*@*Measure horizontal straight angle
+367*@*Measure non-horizontal straight angle
+368*@*Measure obtuse angle
+369*@*Measure right angle
+370*@*NaN
+371*@*Perform multiplication within expanded form
+372*@*Place decimal point in dividend
+373*@*Place decimal point in divisor
+374*@*Place decimal point in product
+375*@*Place decimal point in quotient
+376*@*Place decimal point in sum/difference
+377*@*Position dividend
+378*@*Position divisor
+379*@*Position protractor at vertex
+380*@*Represent first fraction on number line
+381*@*Represent first integer on number line
+382*@*Represent fraction using number line
+383*@*Represent multiplicand visually
+384*@*Represent multiplier visually
+385*@*Represent negative integer using number line
+386*@*Represent positive integer using number line
+387*@*Represent second fraction on number line as difference
+388*@*Represent second fraction on number line as sum
+389*@*Represent second negative integer on number line as difference
+390*@*Represent second negative integer on number line as sum
+391*@*Represent second positive integer on number line as difference
+392*@*Represent second positive integer on number line as sum
+393*@*Rewrite adding negative integer
+394*@*Rewrite adding positive integer
+395*@*Rewrite fraction with common denominator
+396*@*Rewrite subtracting negative integer
+397*@*Rewrite subtracting positive integer
+398*@*Select dependence
+399*@*Select first event
+400*@*Select number of modes
+401*@*Select second event
+402*@*Setting the slope
+403*@*Setting the y-intercept
+404*@*Simplify fraction
+405*@*Solve addition problem
+406*@*Solve multiplication problem
+407*@*Solve subtraction problem
+408*@*Write base of exponential from given fraction
+409*@*Write base of exponential from given fraction as product
+410*@*Write base of exponential from given whole number
+411*@*Write base of exponential from given whole number as product
+412*@*Write decimal as fraction
+413*@*Write decimal multiplier from given number
+414*@*Write decimal multiplier from given scientific notation
+415*@*Write decimal multiplier of scientific notation
+416*@*Write expression, any form
+417*@*Write fraction from given exponential
+418*@*Write fraction from given number as product
+419*@*Write fraction in simplest form
+420*@*Write fraction with least common denominator
+421*@*Write improper fraction as mixed number
+422*@*Write mixed number as improper fraction
+423*@*Write negative exponent of exponential from given number
+424*@*Write negative exponent of exponential from given number as product
+425*@*Write negative exponent of scientific notation
+426*@*Write negative power of ten from given number
+427*@*Write negative power of ten from given scientific notation
+428*@*Write number from negative exponent
+429*@*Write number from positive exponent
+430*@*Write positive exponent of exponential from given number
+431*@*Write positive exponent of exponential from given number as product
+432*@*Write positive exponent of scientific notation
+433*@*Write positive power of ten from given number
+434*@*Write positive power of ten from given scientific notation
+435*@*Write whole number from given exponential
+436*@*Write whole number from given number as product
+437*@*Write whole number multiplier from given number
+438*@*Write whole number multiplier from given scientific notation
+439*@*Write whole number multiplier of scientific notation
+440*@*[SkillRule: Add/Subtract; [Typein Skill: {Isolate positive; Isolate negative; Remove constant; Consolidate vars, no coeff; Consolidate vars with coeff; Consolidate vars, any}]]
+441*@*[SkillRule: Calculate Eliminate Parens; [Typein Skill: Eliminate Parens]]
+442*@*[SkillRule: Calculate difference - 2 mixed; {Fully simplified, done; Fully simplified, done no menu}]
+443*@*[SkillRule: Calculate difference - 2 proper; {Fully simplified, done; Fully simplified, done no menu}]
+444*@*[SkillRule: Calculate negative coefficient; [Typein Skill: Make variable positive]]
+445*@*[SkillRule: Calculate product - improper and proper; {Fully simplified, done; Fully simplified, done no menu}]
+446*@*[SkillRule: Calculate quotient - 2 proper; {Fully simplified, done; Fully simplified, done no menu}]
+447*@*[SkillRule: Calculate sum - improper and proper; {Fully simplified, done; Fully simplified, done no menu}]
+448*@*[SkillRule: Combine like terms, no var; CLT]
+449*@*[SkillRule: Consolidate vars with coeff; CLT]
+450*@*[SkillRule: Consolidate vars, any; {Combine variables to right, sub; Combine variables to right, add; Combine variables to right, gen; Combine variables to right; Combine variables to left, add; Combine variables to left, sub; Combine variables to left, gen; ax+b=cx; ax+b=cx, move left; ax+b=cx+d, pos; ax+b=cx+d, neg; ax+b=cx+d, move right; ax+b=cx+d, move two; ax+b=cx+d, move two2; x+b=cx+d, pos; x+b=cx+d, neg; x+b=cx+d, move right; x+b=cx+d, move two; x+b=cx+d, move two2; ax+b=x+d, pos; ax+b=x+d, neg; ax+b=x+d, move right; ax+b=x+d, move two; ax+b=x+d, move two2; x+b=x+d, pos; x+b=x+d, neg; x+b=x+d, move right; x+b=x+d, move two; x+b=x+d, move two2}]
+451*@*[SkillRule: Consolidate vars, no coeff; CLT]
+452*@*[SkillRule: Do Combine Terms - Whole; [Typein Skill: {Select Combine Terms; Combine like terms, no var}]]
+453*@*[SkillRule: Done?; {doneleft; doneright; doneleft, no menu; doneright, nomenu; done no solution; Done No Solution, domain exception; Done No Solution, range exception; done infinite solutions; done expr, standard form; done expr, standard form, no menu}]
+454*@*[SkillRule: Eliminate Parens; {CLT nested; CLT nested, parens; Distribute Mult right; Distribute Mult left; (+/-x +/-a)/b=c, mult; (+/-x +/-a)*b=c, div; [var expr]/[const expr] = [const expr], multiply; Distribute Division left; Distribute Division right; Distribute both mult left; Distribute both mult right; Distribute both divide left; Distribute both divide right; Distribute subex}]
+455*@*[SkillRule: Invert divisor and multiply; Invert and Multiply]
+456*@*[SkillRule: Isolate negative; x+a=b, negative]
+457*@*[SkillRule: Isolate positive; x+a=b, positive]
+458*@*[SkillRule: Make variable positive; {add x in -x; move neg var to other side}]
+459*@*[SkillRule: Multiply/Divide; [Typein Skill: {Remove coefficient; Variable in denominator}]]
+460*@*[SkillRule: Perform add/subtract terms; [Typein Skill: Select add/subtract terms]]
+461*@*[SkillRule: Perform invert divisor and multiply; [Typein Skill: Invert divisor and multiply]]
+462*@*[SkillRule: Perform multiply through; [Typein Skill: Select multiply through]]
+463*@*[SkillRule: Perform regroup mixed number; [Typein Skill: Select regroup mixed number]]
+464*@*[SkillRule: Perform rewrite fraction with common denominator; [Typein Skill: Rewrite fraction with common denominator]]
+465*@*[SkillRule: Perform simplify across fractions; [Typein Skill: Simplify across fractions]]
+466*@*[SkillRule: Perform simplify fraction; [Typein Skill: Simplify fraction]]
+467*@*[SkillRule: Perform write improper fraction as mixed number; [Typein Skill: Write improper fraction as mixed number]]
+468*@*[SkillRule: Perform write mixed number as improper fraction; [Typein Skill: Write mixed number as improper fraction]]
+469*@*[SkillRule: Remove constant; {ax+b=c, positive; ax+b=c, negative; x+a=b, positive; x+a=b, negative; [var expr]+[const expr]=[const expr], positive; [var expr]+[const expr]=[const expr], negative; [var expr]+[const expr]=[const expr], all; Combine constants to right; Combine constants to left; a-x=b, positive; a/x+b=c, positive; a/x+b=c, negative}]
+470*@*[SkillRule: Remove negative coefficient; {ax+b=c, divide; ax=b; [const expr]*[var fact] + [const expr] = [const expr], divide; [var expr]*[const expr] = [const expr], divide; a/b*x=c; a/b*x=c, reciprocal; ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b; (+/-x +/-a)/b=c, mult; a=x*(b+c); a=x*(b-c); a=x*(b*c+d); x/a+b=c, multiply; [var expr]/[const expr] = [const expr], multiply}]
+471*@*[SkillRule: Remove positive coefficient; {ax+b=c, divide; ax=b; [const expr]*[var fact] + [const expr] = [const expr], divide; [var expr]*[const expr] = [const expr], divide; a/b*x=c; a/b*x=c, reciprocal; ax/b=c, reciprocal; ax/b=c; x/a=b; ax=b; (+/-x +/-a)/b=c, mult; a=x*(b+c); a=x*(b-c); a=x*(b*c+d); x/a+b=c, multiply; [var expr]/[const expr] = [const expr], multiply}]
+472*@*[SkillRule: Rewrite fraction with common denominator; Rewrite with common denom]
+473*@*[SkillRule: Select Combine Terms; CLT]
+474*@*[SkillRule: Select Eliminate Parens; {CLT nested; CLT nested, parens; Distribute Mult right; Distribute Mult left; Distribute subex}]
+475*@*[SkillRule: Select Multiply/Divide, nested; {MT; MT no fraction coeff}]
+476*@*[SkillRule: Select Multiply; {MT; MT no fraction coeff}]
+477*@*[SkillRule: Select add/subtract terms; Combine like terms with same denom]
+478*@*[SkillRule: Select multiply through; Multiply through]
+479*@*[SkillRule: Select regroup mixed number; Regroup mixed number]
+480*@*[SkillRule: Select regroup polynomial; Regroup poly for subtraction]
+481*@*[SkillRule: Simplify across fractions; {Simplify Across Fractions, both numers and denoms; Simplify Across Fractions, numer-1 and denom-2; Simplify Across Fractions, denom-1 and numer-2}]
+482*@*[SkillRule: Simplify fraction; Reduce fraction]
+483*@*[SkillRule: Variable in denominator; {a/x=[anything]; a/x=b; a/x=b, sophisticated}]
+484*@*[SkillRule: Write improper fraction as mixed number; Rewrite term as mixed number]
+485*@*[SkillRule: Write mixed number as improper fraction; Rewrite terms as improper fractions]
+486*@*[SkillRule: ax+b=c, negative; ax+b=c, negative]
+487*@*combine-like-terms-sp
+488*@*combine-like-terms-whole-sp
+489*@*perform-mult-r-sp
+490*@*perform-mult-row2-sp
+491*@*perform-mult-sp
+492*@*perform-mult-whole-sp
+493*@*simplify-fractions-sp
