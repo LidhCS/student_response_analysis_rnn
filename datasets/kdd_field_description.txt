@@ -1,0 +1,44 @@
+﻿
+datasets：https://pslcdatashop.web.cmu.edu/KDDCup/Download?datasetId=3
+
+
+Four key terms form the building blocks of our KDD Cup data. These are problem, step, knowledge component, and opportunity
+For all competition data sets, each record will be a step that contains the following attributes:
+Row: the row number Update (04-20-2010): for challenge data sets, the row number in each file (train, test, and submission) is no longer taken from the original data set file. Instead, rows are renumbered within each file. So instead of 1...n rows for the training file and n+1..m rows for the test/submission file, it is now 1...n for the training file and 1...n for the test/submission file.
+Anon Student Id: 
+	unique, anonymous identifier for a student
+Problem Hierarchy: 
+	the hierarchy of curriculum levels containing the problem.
+Problem Name: 
+	unique identifier for a problem
+Problem View: 
+	the total number of times the student encountered the problem so far.
+Step Name: 
+	each problem consists of one or more steps (e.g., "find the area of rectangle ABCD" or "divide both sides of the equation by x"). The step name is unique within each problem, but there may be collisions between different problems, so the only unique identifier for a step is the pair of problem_name and step_name.
+Step Start Time:
+	 the starting time of the step. Can be null.
+First Transaction Time: 
+	the time of the first transaction toward the step.
+Correct Transaction Time: 
+	the time of the correct attempt toward the step, if there was one.
+Step End Time: 
+	the time of the last transaction toward the step.
+Step Duration (sec): 
+	the elapsed time of the step in seconds, calculated by adding all of the durations for transactions that were attributed to the step. Can be null (if step start time is null).
+Correct Step Duration (sec): 
+	the step duration if the first attempt for the step was correct.
+Error Step Duration (sec): 
+	the step duration if the first attempt for the step was an error (incorrect attempt or hint request).
+Correct First Attempt: 
+	the tutor's evaluation of the student's first attempt on the step—1 if correct, 0 if an error.
+Incorrects: 
+	total number of incorrect attempts by the student on the step.
+Hints: 
+	total number of hints requested by the student for the step.
+Corrects: 
+	total correct attempts by the student for the step. (Only increases if the step is encountered more than once.)
+KC(KC Model Name): 
+	the identified skills that are used in a problem, where available. A step can have multiple KCs assigned to it. Multiple KCs for a step are separated by ~~ (two tildes). Since opportunity describes practice by knowledge component, the corresponding opportunities are similarly separated by ~~.
+Opportunity(KC Model Name): 
+	a count that increases by one each time the student encounters a step with the listed knowledge component. Steps with multiple KCs will have multiple opportunity numbers separated by ~~.
+Additional KC models, which exist for the challenge data sets, will appear as additional pairs of columns (KC and Opportunity columns for each model).
